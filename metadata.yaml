@@ -1,11 +1,16 @@
 _repo: Drei-Monate-Fabrikarbeiter-und-Handwerksbursche-Eine-praktische-Studie_60357
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60357-h/images/cover.jpg
 creator:
   author:
     agent_name: Göhre, Paul
     gutenberg_agent_id: '50917'
     url: http://www.gutenberg.org/2009/agents/50917
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60357#Drei-Monate-Fabrikarbeiter-und-Handwerksbursche-Eine-praktische-Studie
 gutenberg_issued: '2019-09-25'
 gutenberg_type: Text
 identifiers:
